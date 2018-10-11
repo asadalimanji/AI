@@ -1,0 +1,2 @@
+During the second day of work i found that GIT is really helpful in order to recover lost files and in order to track them. I was able to learn the commands in order to carry out such operations.
+ 
